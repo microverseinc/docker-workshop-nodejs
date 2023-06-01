@@ -1,14 +1,14 @@
-# Sample project - Node.js
+# 🧱 Sample project - Node.js
 
 ![Containerization with Docker Workshop](https://lh3.googleusercontent.com/drive-viewer/AFGJ81pCHvhHEKc9l8OoAelaM3IK4KPyuPJCGKPithEQ-m0oT_OODkIzHyEPW8ZmCG-5pN03HpeUOY4ISFpwmSRhvrZxRioC3w=s1600)
 
-## Description
+## ❓ Description
 
-This sample project is part of the workshop "Containerization with Docker" by Microverse.
+This sample project is part of the workshop "Containerization with Docker" by Microverse. Find out more about the workshop:
 
-It is to be used as a base for learning the core concepts of containerization and how the tool Docker works.
+[👉 "Containerization with Docker" workshop](https://github.com/microverseinc/docker-workshop)
 
-## Getting Started
+## 🛫 Getting Started
 
 ### Prerequisites
 
@@ -46,6 +46,6 @@ npm install
 npm run dev
 ```
 
-## Help
+## 🙋🏽‍♀️ Help
 
 If you need any help, send a message to the Slack channel [#modern-ci-cd-with-docker-demo-workshop](https://microverseupskill.slack.com/archives/C059WD1U06T)!
